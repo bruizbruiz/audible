@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Now a modern classic, this story of two boys' friendship at an exclusive New Hampshire prep school as it parallels the inescapable and escalating atmosphere of World War II, is intense and engaging to the last word."; 

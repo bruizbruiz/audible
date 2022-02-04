@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "In the rigid theocracy of Salem, Massachusetts, rumors that women are practicing witchcraft galvanize the town. In the ruthlessness of the prosecutors and the eagerness of neighbor to testify against neighbor, <i>The Crucible</i> mirrors the anti-Communist hysteria in the 1950s."; 

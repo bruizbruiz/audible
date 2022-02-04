@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>Henry V,</i> which dates from 1599, is the last in Shakespeare's series of plays based on English history. It is also, of course, among the Bard's best-known and most-performed works. It's given rich new life here by a full-cast presentation that combines classic literature with classical music. </p>"; 

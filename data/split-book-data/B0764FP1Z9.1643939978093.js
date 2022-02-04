@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Here is the full-cast production of Shakespeare's classic love story, fully dramatized from the complete text, and starring Michael Sheen as Romeo and Kate Beckinsale as Juliet.</p>"; 

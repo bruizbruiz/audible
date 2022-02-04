@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "For the first time ever, the complete founding documents of the United States of America are here in one unabridged recording. Sam Fink, award-winning author of the highly acclaimed illustrated book of <i>The Declaration of Independence</i>, provides concise introductions."; 

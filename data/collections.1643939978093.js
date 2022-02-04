@@ -1,0 +1,1 @@
+window.collectionsJSON = [{"id":"__FAVORITES","title":"Favorites","description":"Your favorite listens","books":["B0788BD32G"]}];

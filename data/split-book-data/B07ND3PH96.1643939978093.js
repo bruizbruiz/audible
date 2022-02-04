@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "In the desolate, frozen northwest of Canada, a lone wolf fights a heroic daily fight for life in the wild. But after he is captured and cruelly abused by men, he becomes a force of pure rage. Only one man sees inside the killer to his intelligence and nobility. But can his kindness touch White Fang?"; 
